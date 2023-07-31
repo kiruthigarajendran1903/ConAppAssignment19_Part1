@@ -1,0 +1,8 @@
+D:\SimpliLearn\Day-16\ConAppAssignment19_Part1\ConAppAssignment19_Part1\bin\Debug\ConAppAssignment19_Part1.exe.config
+D:\SimpliLearn\Day-16\ConAppAssignment19_Part1\ConAppAssignment19_Part1\bin\Debug\ConAppAssignment19_Part1.exe
+D:\SimpliLearn\Day-16\ConAppAssignment19_Part1\ConAppAssignment19_Part1\bin\Debug\ConAppAssignment19_Part1.pdb
+D:\SimpliLearn\Day-16\ConAppAssignment19_Part1\ConAppAssignment19_Part1\obj\Debug\ConAppAssignment19_Part1.csproj.AssemblyReference.cache
+D:\SimpliLearn\Day-16\ConAppAssignment19_Part1\ConAppAssignment19_Part1\obj\Debug\ConAppAssignment19_Part1.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn\Day-16\ConAppAssignment19_Part1\ConAppAssignment19_Part1\obj\Debug\ConAppAssignment19_Part1.csproj.CoreCompileInputs.cache
+D:\SimpliLearn\Day-16\ConAppAssignment19_Part1\ConAppAssignment19_Part1\obj\Debug\ConAppAssignment19_Part1.exe
+D:\SimpliLearn\Day-16\ConAppAssignment19_Part1\ConAppAssignment19_Part1\obj\Debug\ConAppAssignment19_Part1.pdb
